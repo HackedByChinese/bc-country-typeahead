@@ -1,4 +1,4 @@
-[
+var countries = [
     {
         "name": "Afghanistan",
         "alpha2Code": "AF",
